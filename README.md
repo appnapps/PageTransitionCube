@@ -51,5 +51,5 @@ class SimplePagerAdapter(...) : RecyclerView.Adapter<...> {
 
 ```
 
-<img src="https://github.com/appnapps/fireworkbutton/blob/main/docs/FireworkButton.gif" width="320"/>
+<img src="https://github.com/appnapps/PageTransitionCube/blob/main/docs/PageTransitionCube.gif" width="320"/>
 
